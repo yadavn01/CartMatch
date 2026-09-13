@@ -1,0 +1,703 @@
+{
+  "scrapedAt": "2026-09-10T20:30:21.528Z",
+  "stores": {
+    "paknsave:b2e98a14-c8ca-401e-99ed-edf74570c6f6": {
+      "retailer": "paknsave",
+      "name": "PAK'nSAVE Mt Albert"
+    },
+    "paknsave:e1925ea7-01bc-4358-ae7c-c6502da5ab12": {
+      "retailer": "paknsave",
+      "name": "PAK'nSAVE Royal Oak"
+    },
+    "paknsave:9cd8eb60-3222-4efc-bd7c-50e03e6a81a4": {
+      "retailer": "paknsave",
+      "name": "PAK'nSAVE Manukau"
+    },
+    "newworld:91e4dddd-aed7-4ccc-ad0b-dfe25805a495": {
+      "retailer": "newworld",
+      "name": "New World Remuera"
+    },
+    "newworld:3ca6692b-e2a3-4d51-95b6-d061b9541e6c": {
+      "retailer": "newworld",
+      "name": "New World Mt Roskill"
+    },
+    "woolworths:9171": {
+      "retailer": "woolworths",
+      "name": "Woolworths Glenfield"
+    }
+  },
+  "items": [
+    {
+      "key": "milk-standard-2l",
+      "label": "Standard milk 2L",
+      "cheapest": {
+        "store": "paknsave:b2e98a14-c8ca-401e-99ed-edf74570c6f6",
+        "storeName": "PAK'nSAVE Mt Albert",
+        "priceCents": 479
+      },
+      "spreadCents": 100,
+      "prices": [
+        {
+          "matchedBy": "id",
+          "productId": "5201479-EA-000",
+          "name": "Pams Value Standard Milk",
+          "brand": "Pams Value",
+          "priceCents": 479,
+          "unitPrice": "$2.40/L",
+          "barcode": "9415077379187",
+          "onSpecial": false,
+          "store": "paknsave:b2e98a14-c8ca-401e-99ed-edf74570c6f6",
+          "storeName": "PAK'nSAVE Mt Albert",
+          "retailer": "paknsave",
+          "ok": true
+        },
+        {
+          "matchedBy": "id",
+          "productId": "5201479-EA-000",
+          "name": "Pams Value Standard Milk",
+          "brand": "Pams Value",
+          "priceCents": 479,
+          "unitPrice": "$2.40/L",
+          "barcode": "9415077379187",
+          "onSpecial": false,
+          "store": "paknsave:e1925ea7-01bc-4358-ae7c-c6502da5ab12",
+          "storeName": "PAK'nSAVE Royal Oak",
+          "retailer": "paknsave",
+          "ok": true
+        },
+        {
+          "matchedBy": "id",
+          "productId": "5201479-EA-000",
+          "name": "Pams Value Standard Milk",
+          "brand": "Pams Value",
+          "priceCents": 479,
+          "unitPrice": "$2.40/L",
+          "barcode": "9415077379187",
+          "onSpecial": false,
+          "store": "paknsave:9cd8eb60-3222-4efc-bd7c-50e03e6a81a4",
+          "storeName": "PAK'nSAVE Manukau",
+          "retailer": "paknsave",
+          "ok": true
+        },
+        {
+          "matchedBy": "id",
+          "productId": "5201479-EA-000",
+          "name": "Pams Value Standard Milk",
+          "brand": "Pams Value",
+          "priceCents": 482,
+          "unitPrice": "$2.41/L",
+          "barcode": "9415077379187",
+          "onSpecial": false,
+          "store": "newworld:91e4dddd-aed7-4ccc-ad0b-dfe25805a495",
+          "storeName": "New World Remuera",
+          "retailer": "newworld",
+          "ok": true
+        },
+        {
+          "matchedBy": "id",
+          "productId": "5201479-EA-000",
+          "name": "Pams Value Standard Milk",
+          "brand": "Pams Value",
+          "priceCents": 482,
+          "unitPrice": "$2.41/L",
+          "barcode": "9415077379187",
+          "onSpecial": false,
+          "store": "newworld:3ca6692b-e2a3-4d51-95b6-d061b9541e6c",
+          "storeName": "New World Mt Roskill",
+          "retailer": "newworld",
+          "ok": true
+        },
+        {
+          "matchedBy": "id",
+          "productId": "282819",
+          "name": "anchor milk standard blue",
+          "brand": "anchor",
+          "priceCents": 579,
+          "unitPrice": "$2.90/1L",
+          "barcode": "",
+          "onSpecial": false,
+          "store": "woolworths:9171",
+          "storeName": "Woolworths Glenfield",
+          "retailer": "woolworths",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "key": "butter-500g",
+      "label": "Anchor butter 500g",
+      "cheapest": {
+        "store": "paknsave:b2e98a14-c8ca-401e-99ed-edf74570c6f6",
+        "storeName": "PAK'nSAVE Mt Albert",
+        "priceCents": 929
+      },
+      "spreadCents": 50,
+      "prices": [
+        {
+          "matchedBy": "id",
+          "productId": "5002650-EA-000",
+          "name": "Anchor Butter",
+          "brand": "Anchor",
+          "priceCents": 929,
+          "unitPrice": "$1.86/g",
+          "barcode": "9414342140101",
+          "onSpecial": false,
+          "store": "paknsave:b2e98a14-c8ca-401e-99ed-edf74570c6f6",
+          "storeName": "PAK'nSAVE Mt Albert",
+          "retailer": "paknsave",
+          "ok": true
+        },
+        {
+          "matchedBy": "id",
+          "productId": "5002650-EA-000",
+          "name": "Anchor Butter",
+          "brand": "Anchor",
+          "priceCents": 929,
+          "unitPrice": "$1.86/g",
+          "barcode": "9414342140101",
+          "onSpecial": false,
+          "store": "paknsave:e1925ea7-01bc-4358-ae7c-c6502da5ab12",
+          "storeName": "PAK'nSAVE Royal Oak",
+          "retailer": "paknsave",
+          "ok": true
+        },
+        {
+          "matchedBy": "id",
+          "productId": "5002650-EA-000",
+          "name": "Anchor Butter",
+          "brand": "Anchor",
+          "priceCents": 929,
+          "unitPrice": "$1.86/g",
+          "barcode": "9414342140101",
+          "onSpecial": false,
+          "store": "paknsave:9cd8eb60-3222-4efc-bd7c-50e03e6a81a4",
+          "storeName": "PAK'nSAVE Manukau",
+          "retailer": "paknsave",
+          "ok": true
+        },
+        {
+          "matchedBy": "id",
+          "productId": "5002650-EA-000",
+          "name": "Anchor Butter",
+          "brand": "Anchor",
+          "priceCents": 979,
+          "unitPrice": "$1.96/g",
+          "barcode": "9414342140101",
+          "onSpecial": false,
+          "store": "newworld:91e4dddd-aed7-4ccc-ad0b-dfe25805a495",
+          "storeName": "New World Remuera",
+          "retailer": "newworld",
+          "ok": true
+        },
+        {
+          "matchedBy": "id",
+          "productId": "5002650-EA-000",
+          "name": "Anchor Butter",
+          "brand": "Anchor",
+          "priceCents": 979,
+          "unitPrice": "$1.96/g",
+          "barcode": "9414342140101",
+          "onSpecial": false,
+          "store": "newworld:3ca6692b-e2a3-4d51-95b6-d061b9541e6c",
+          "storeName": "New World Mt Roskill",
+          "retailer": "newworld",
+          "ok": true
+        },
+        {
+          "matchedBy": "id",
+          "productId": "281759",
+          "name": "anchor butter",
+          "brand": "anchor",
+          "priceCents": 970,
+          "unitPrice": "$1.94/100g",
+          "barcode": "",
+          "onSpecial": false,
+          "store": "woolworths:9171",
+          "storeName": "Woolworths Glenfield",
+          "retailer": "woolworths",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "key": "weetbix-1.2kg",
+      "label": "Sanitarium Weet-Bix 1.2kg",
+      "cheapest": {
+        "store": "woolworths:9171",
+        "storeName": "Woolworths Glenfield",
+        "priceCents": 709
+      },
+      "spreadCents": 180,
+      "prices": [
+        {
+          "matchedBy": "id",
+          "productId": "5035008-EA-000",
+          "name": "Sanitarium Weet-Bix Breakfast Cereal",
+          "brand": "Sanitarium Weet-Bix",
+          "priceCents": 799,
+          "unitPrice": "$0.67/g",
+          "barcode": "9414942805653",
+          "onSpecial": false,
+          "store": "paknsave:b2e98a14-c8ca-401e-99ed-edf74570c6f6",
+          "storeName": "PAK'nSAVE Mt Albert",
+          "retailer": "paknsave",
+          "ok": true
+        },
+        {
+          "matchedBy": "id",
+          "productId": "5035008-EA-000",
+          "name": "Sanitarium Weet-Bix Breakfast Cereal",
+          "brand": "Sanitarium Weet-Bix",
+          "priceCents": 799,
+          "unitPrice": "$0.67/g",
+          "barcode": "9414942805653",
+          "onSpecial": false,
+          "store": "paknsave:e1925ea7-01bc-4358-ae7c-c6502da5ab12",
+          "storeName": "PAK'nSAVE Royal Oak",
+          "retailer": "paknsave",
+          "ok": true
+        },
+        {
+          "matchedBy": "id",
+          "productId": "5035008-EA-000",
+          "name": "Sanitarium Weet-Bix Breakfast Cereal",
+          "brand": "Sanitarium Weet-Bix",
+          "priceCents": 799,
+          "unitPrice": "$0.67/g",
+          "barcode": "9414942805653",
+          "onSpecial": false,
+          "store": "paknsave:9cd8eb60-3222-4efc-bd7c-50e03e6a81a4",
+          "storeName": "PAK'nSAVE Manukau",
+          "retailer": "paknsave",
+          "ok": true
+        },
+        {
+          "matchedBy": "id",
+          "productId": "5035008-EA-000",
+          "name": "Sanitarium Weet-Bix Breakfast Cereal",
+          "brand": "Sanitarium Weet-Bix",
+          "priceCents": 889,
+          "unitPrice": "$0.74/g",
+          "barcode": "9414942805653",
+          "onSpecial": false,
+          "store": "newworld:91e4dddd-aed7-4ccc-ad0b-dfe25805a495",
+          "storeName": "New World Remuera",
+          "retailer": "newworld",
+          "ok": true
+        },
+        {
+          "matchedBy": "id",
+          "productId": "5035008-EA-000",
+          "name": "Sanitarium Weet-Bix Breakfast Cereal",
+          "brand": "Sanitarium Weet-Bix",
+          "priceCents": 889,
+          "unitPrice": "$0.74/g",
+          "barcode": "9414942805653",
+          "onSpecial": false,
+          "store": "newworld:3ca6692b-e2a3-4d51-95b6-d061b9541e6c",
+          "storeName": "New World Mt Roskill",
+          "retailer": "newworld",
+          "ok": true
+        },
+        {
+          "matchedBy": "id",
+          "productId": "885704",
+          "name": "sanitarium weet-bix cereal",
+          "brand": "sanitarium weet-bix",
+          "priceCents": 709,
+          "unitPrice": "$0.59/100g",
+          "barcode": "",
+          "onSpecial": true,
+          "store": "woolworths:9171",
+          "storeName": "Woolworths Glenfield",
+          "retailer": "woolworths",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "key": "white-toast-bread",
+      "label": "Tip Top white toast bread 700g",
+      "cheapest": {
+        "store": "paknsave:b2e98a14-c8ca-401e-99ed-edf74570c6f6",
+        "storeName": "PAK'nSAVE Mt Albert",
+        "priceCents": 389
+      },
+      "spreadCents": 40,
+      "prices": [
+        {
+          "matchedBy": "id",
+          "productId": "5009506-EA-000",
+          "name": "Tip Top Supersoft White Toast Bread",
+          "brand": "Tip Top",
+          "priceCents": 389,
+          "unitPrice": "$0.56/g",
+          "barcode": "9415142003580",
+          "onSpecial": false,
+          "store": "paknsave:b2e98a14-c8ca-401e-99ed-edf74570c6f6",
+          "storeName": "PAK'nSAVE Mt Albert",
+          "retailer": "paknsave",
+          "ok": true
+        },
+        {
+          "matchedBy": "id",
+          "productId": "5009506-EA-000",
+          "name": "Tip Top Supersoft White Toast Bread",
+          "brand": "Tip Top",
+          "priceCents": 389,
+          "unitPrice": "$0.56/g",
+          "barcode": "9415142003580",
+          "onSpecial": false,
+          "store": "paknsave:e1925ea7-01bc-4358-ae7c-c6502da5ab12",
+          "storeName": "PAK'nSAVE Royal Oak",
+          "retailer": "paknsave",
+          "ok": true
+        },
+        {
+          "matchedBy": "id",
+          "productId": "5009506-EA-000",
+          "name": "Tip Top Supersoft White Toast Bread",
+          "brand": "Tip Top",
+          "priceCents": 389,
+          "unitPrice": "$0.56/g",
+          "barcode": "9415142003580",
+          "onSpecial": false,
+          "store": "paknsave:9cd8eb60-3222-4efc-bd7c-50e03e6a81a4",
+          "storeName": "PAK'nSAVE Manukau",
+          "retailer": "paknsave",
+          "ok": true
+        },
+        {
+          "matchedBy": "id",
+          "productId": "5009506-EA-000",
+          "name": "Tip Top Supersoft White Toast Bread",
+          "brand": "Tip Top",
+          "priceCents": 429,
+          "unitPrice": "$0.61/g",
+          "barcode": "9415142003580",
+          "onSpecial": false,
+          "store": "newworld:91e4dddd-aed7-4ccc-ad0b-dfe25805a495",
+          "storeName": "New World Remuera",
+          "retailer": "newworld",
+          "ok": true
+        },
+        {
+          "matchedBy": "id",
+          "productId": "5009506-EA-000",
+          "name": "Tip Top Supersoft White Toast Bread",
+          "brand": "Tip Top",
+          "priceCents": 429,
+          "unitPrice": "$0.61/g",
+          "barcode": "9415142003580",
+          "onSpecial": false,
+          "store": "newworld:3ca6692b-e2a3-4d51-95b6-d061b9541e6c",
+          "storeName": "New World Mt Roskill",
+          "retailer": "newworld",
+          "ok": true
+        },
+        {
+          "matchedBy": "id",
+          "productId": "275582",
+          "name": "tip top super soft toast bread white",
+          "brand": "tip top super soft",
+          "priceCents": 429,
+          "unitPrice": "$0.61/100g",
+          "barcode": "",
+          "onSpecial": false,
+          "store": "woolworths:9171",
+          "storeName": "Woolworths Glenfield",
+          "retailer": "woolworths",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "key": "baked-beans-420g",
+      "label": "Wattie's baked beans 420g",
+      "cheapest": {
+        "store": "paknsave:9cd8eb60-3222-4efc-bd7c-50e03e6a81a4",
+        "storeName": "PAK'nSAVE Manukau",
+        "priceCents": 219
+      },
+      "spreadCents": 70,
+      "prices": [
+        {
+          "matchedBy": "id",
+          "productId": "5001949-EA-000",
+          "name": "Wattie's Baked Beans In Tomato Sauce",
+          "brand": "Wattie's",
+          "priceCents": 239,
+          "unitPrice": "$0.57/g",
+          "barcode": "9400547002634",
+          "onSpecial": false,
+          "store": "paknsave:b2e98a14-c8ca-401e-99ed-edf74570c6f6",
+          "storeName": "PAK'nSAVE Mt Albert",
+          "retailer": "paknsave",
+          "ok": true
+        },
+        {
+          "matchedBy": "id",
+          "productId": "5001949-EA-000",
+          "name": "Wattie's Baked Beans In Tomato Sauce",
+          "brand": "Wattie's",
+          "priceCents": 239,
+          "unitPrice": "$0.57/g",
+          "barcode": "9400547002634",
+          "onSpecial": false,
+          "store": "paknsave:e1925ea7-01bc-4358-ae7c-c6502da5ab12",
+          "storeName": "PAK'nSAVE Royal Oak",
+          "retailer": "paknsave",
+          "ok": true
+        },
+        {
+          "matchedBy": "id",
+          "productId": "5001949-EA-000",
+          "name": "Wattie's Baked Beans In Tomato Sauce",
+          "brand": "Wattie's",
+          "priceCents": 219,
+          "unitPrice": "$0.52/g",
+          "barcode": "9400547002634",
+          "onSpecial": false,
+          "store": "paknsave:9cd8eb60-3222-4efc-bd7c-50e03e6a81a4",
+          "storeName": "PAK'nSAVE Manukau",
+          "retailer": "paknsave",
+          "ok": true
+        },
+        {
+          "matchedBy": "id",
+          "productId": "5001949-EA-000",
+          "name": "Wattie's Baked Beans In Tomato Sauce",
+          "brand": "Wattie's",
+          "priceCents": 289,
+          "unitPrice": "$0.69/g",
+          "barcode": "9400547002634",
+          "onSpecial": false,
+          "store": "newworld:91e4dddd-aed7-4ccc-ad0b-dfe25805a495",
+          "storeName": "New World Remuera",
+          "retailer": "newworld",
+          "ok": true
+        },
+        {
+          "matchedBy": "id",
+          "productId": "5001949-EA-000",
+          "name": "Wattie's Baked Beans In Tomato Sauce",
+          "brand": "Wattie's",
+          "priceCents": 289,
+          "unitPrice": "$0.69/g",
+          "barcode": "9400547002634",
+          "onSpecial": false,
+          "store": "newworld:3ca6692b-e2a3-4d51-95b6-d061b9541e6c",
+          "storeName": "New World Mt Roskill",
+          "retailer": "newworld",
+          "ok": true
+        },
+        {
+          "matchedBy": "id",
+          "productId": "4424",
+          "name": "watties baked beans",
+          "brand": "watties",
+          "priceCents": 275,
+          "unitPrice": "$0.65/100g",
+          "barcode": "",
+          "onSpecial": false,
+          "store": "woolworths:9171",
+          "storeName": "Woolworths Glenfield",
+          "retailer": "woolworths",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "key": "flour-standard-1.5kg",
+      "label": "Edmonds standard flour 1.5kg",
+      "cheapest": {
+        "store": "paknsave:b2e98a14-c8ca-401e-99ed-edf74570c6f6",
+        "storeName": "PAK'nSAVE Mt Albert",
+        "priceCents": 279
+      },
+      "spreadCents": 100,
+      "prices": [
+        {
+          "matchedBy": "id",
+          "productId": "5286791-EA-000",
+          "name": "Edmonds Standard Grade Flour",
+          "brand": "Edmonds",
+          "priceCents": 279,
+          "unitPrice": "$0.19/g",
+          "barcode": "9416897000367",
+          "onSpecial": false,
+          "store": "paknsave:b2e98a14-c8ca-401e-99ed-edf74570c6f6",
+          "storeName": "PAK'nSAVE Mt Albert",
+          "retailer": "paknsave",
+          "ok": true
+        },
+        {
+          "matchedBy": "id",
+          "productId": "5286791-EA-000",
+          "name": "Edmonds Standard Grade Flour",
+          "brand": "Edmonds",
+          "priceCents": 279,
+          "unitPrice": "$0.19/g",
+          "barcode": "9416897000367",
+          "onSpecial": false,
+          "store": "paknsave:e1925ea7-01bc-4358-ae7c-c6502da5ab12",
+          "storeName": "PAK'nSAVE Royal Oak",
+          "retailer": "paknsave",
+          "ok": true
+        },
+        {
+          "matchedBy": "id",
+          "productId": "5286791-EA-000",
+          "name": "Edmonds Standard Grade Flour",
+          "brand": "Edmonds",
+          "priceCents": 279,
+          "unitPrice": "$0.19/g",
+          "barcode": "9416897000367",
+          "onSpecial": false,
+          "store": "paknsave:9cd8eb60-3222-4efc-bd7c-50e03e6a81a4",
+          "storeName": "PAK'nSAVE Manukau",
+          "retailer": "paknsave",
+          "ok": true
+        },
+        {
+          "matchedBy": "id",
+          "productId": "5286791-EA-000",
+          "name": "Edmonds Standard Grade Flour",
+          "brand": "Edmonds",
+          "priceCents": 379,
+          "unitPrice": "$0.25/g",
+          "barcode": "9416897000367",
+          "onSpecial": false,
+          "store": "newworld:91e4dddd-aed7-4ccc-ad0b-dfe25805a495",
+          "storeName": "New World Remuera",
+          "retailer": "newworld",
+          "ok": true
+        },
+        {
+          "matchedBy": "id",
+          "productId": "5286791-EA-000",
+          "name": "Edmonds Standard Grade Flour",
+          "brand": "Edmonds",
+          "priceCents": 379,
+          "unitPrice": "$0.25/g",
+          "barcode": "9416897000367",
+          "onSpecial": false,
+          "store": "newworld:3ca6692b-e2a3-4d51-95b6-d061b9541e6c",
+          "storeName": "New World Mt Roskill",
+          "retailer": "newworld",
+          "ok": true
+        },
+        {
+          "matchedBy": "id",
+          "productId": "160023",
+          "name": "edmonds standard grade flour",
+          "brand": "edmonds",
+          "priceCents": 379,
+          "unitPrice": "$0.25/100g",
+          "barcode": "",
+          "onSpecial": false,
+          "store": "woolworths:9171",
+          "storeName": "Woolworths Glenfield",
+          "retailer": "woolworths",
+          "ok": true
+        }
+      ]
+    },
+    {
+      "key": "eggs-size7-dozen",
+      "label": "Otaika Valley free range eggs size 7, 12pk",
+      "cheapest": {
+        "store": "paknsave:e1925ea7-01bc-4358-ae7c-c6502da5ab12",
+        "storeName": "PAK'nSAVE Royal Oak",
+        "priceCents": 989
+      },
+      "spreadCents": 270,
+      "prices": [
+        {
+          "matchedBy": "id",
+          "productId": "5202411-EA-000",
+          "name": "Otaika Valley Premium Free Range Size 7 Eggs",
+          "brand": "Otaika Valley",
+          "priceCents": 999,
+          "unitPrice": "$0.83/ea",
+          "barcode": "9415403003359",
+          "onSpecial": false,
+          "store": "paknsave:b2e98a14-c8ca-401e-99ed-edf74570c6f6",
+          "storeName": "PAK'nSAVE Mt Albert",
+          "retailer": "paknsave",
+          "ok": true
+        },
+        {
+          "matchedBy": "search-fallback",
+          "productId": "5113400-EA-000",
+          "name": "Higgins Family Free Range Size 7 Eggs 12pk",
+          "brand": "Higgins Family",
+          "priceCents": 989,
+          "unitPrice": "$0.82/ea",
+          "barcode": "",
+          "onSpecial": true,
+          "store": "paknsave:e1925ea7-01bc-4358-ae7c-c6502da5ab12",
+          "storeName": "PAK'nSAVE Royal Oak",
+          "retailer": "paknsave",
+          "ok": true
+        },
+        {
+          "matchedBy": "search-fallback",
+          "productId": "5342311-EA-000",
+          "name": "New Day Size 7 Eggs 12pk",
+          "brand": "New Day",
+          "priceCents": 1099,
+          "unitPrice": "$0.92/ea",
+          "barcode": "",
+          "onSpecial": false,
+          "store": "paknsave:9cd8eb60-3222-4efc-bd7c-50e03e6a81a4",
+          "storeName": "PAK'nSAVE Manukau",
+          "retailer": "paknsave",
+          "ok": true
+        },
+        {
+          "matchedBy": "id",
+          "productId": "5202411-EA-000",
+          "name": "Otaika Valley Premium Free Range Size 7 Eggs",
+          "brand": "Otaika Valley",
+          "priceCents": 1259,
+          "unitPrice": "$1.05/ea",
+          "barcode": "9415403003359",
+          "onSpecial": false,
+          "store": "newworld:91e4dddd-aed7-4ccc-ad0b-dfe25805a495",
+          "storeName": "New World Remuera",
+          "retailer": "newworld",
+          "ok": true
+        },
+        {
+          "matchedBy": "id",
+          "productId": "5202411-EA-000",
+          "name": "Otaika Valley Premium Free Range Size 7 Eggs",
+          "brand": "Otaika Valley",
+          "priceCents": 1199,
+          "unitPrice": "$1.00/ea",
+          "barcode": "9415403003359",
+          "onSpecial": false,
+          "store": "newworld:3ca6692b-e2a3-4d51-95b6-d061b9541e6c",
+          "storeName": "New World Mt Roskill",
+          "retailer": "newworld",
+          "ok": true
+        },
+        {
+          "matchedBy": "id",
+          "productId": "411926",
+          "name": "otaika valley eggs free range size 7",
+          "brand": "otaika valley",
+          "priceCents": 1050,
+          "unitPrice": "$0.88/1ea",
+          "barcode": "",
+          "onSpecial": true,
+          "store": "woolworths:9171",
+          "storeName": "Woolworths Glenfield",
+          "retailer": "woolworths",
+          "ok": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "nz-grocery-prices",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "MVP: compare PAK'nSAVE / New World / Woolworths NZ prices for a fixed basket across store locations",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "scrape": "node src/scrape.mjs",
+    "stores:foodstuffs": "node src/tools/list-foodstuffs-stores.mjs"
+  }
+}

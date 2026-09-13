@@ -1,0 +1,68 @@
+{
+  "_comment": "The basket to price. Each item: label + per-retailer lookup. A lookup is { productId } (Foodstuffs), { sku } (Woolworths), or { query } (free-text search, first hit wins). Missing lookup for a retailer falls back to { query: item.query || item.label }. Pinned ids give clean like-for-like comparisons; queries are quicker to add but noisier.",
+  "items": [
+    {
+      "key": "milk-standard-2l",
+      "label": "Standard milk 2L",
+      "lookups": {
+        "paknsave": { "productId": "5201479-EA-000" },
+        "newworld": { "productId": "5201479-EA-000" },
+        "woolworths": { "sku": "282819" }
+      }
+    },
+    {
+      "key": "butter-500g",
+      "label": "Anchor butter 500g",
+      "lookups": {
+        "paknsave": { "productId": "5002650-EA-000" },
+        "newworld": { "productId": "5002650-EA-000" },
+        "woolworths": { "sku": "281759" }
+      }
+    },
+    {
+      "key": "weetbix-1.2kg",
+      "label": "Sanitarium Weet-Bix 1.2kg",
+      "lookups": {
+        "paknsave": { "productId": "5035008-EA-000" },
+        "newworld": { "productId": "5035008-EA-000" },
+        "woolworths": { "sku": "885704" }
+      }
+    },
+    {
+      "key": "white-toast-bread",
+      "label": "Tip Top white toast bread 700g",
+      "lookups": {
+        "paknsave": { "productId": "5009506-EA-000" },
+        "newworld": { "productId": "5009506-EA-000" },
+        "woolworths": { "sku": "275582" }
+      }
+    },
+    {
+      "key": "baked-beans-420g",
+      "label": "Wattie's baked beans 420g",
+      "lookups": {
+        "paknsave": { "productId": "5001949-EA-000" },
+        "newworld": { "productId": "5001949-EA-000" },
+        "woolworths": { "sku": "4424" }
+      }
+    },
+    {
+      "key": "flour-standard-1.5kg",
+      "label": "Edmonds standard flour 1.5kg",
+      "lookups": {
+        "paknsave": { "productId": "5286791-EA-000" },
+        "newworld": { "productId": "5286791-EA-000" },
+        "woolworths": { "sku": "160023" }
+      }
+    },
+    {
+      "key": "eggs-size7-dozen",
+      "label": "Otaika Valley free range eggs size 7, 12pk",
+      "lookups": {
+        "paknsave": { "productId": "5202411-EA-000" },
+        "newworld": { "productId": "5202411-EA-000" },
+        "woolworths": { "sku": "411926" }
+      }
+    }
+  ]
+}
