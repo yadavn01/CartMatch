@@ -1,12 +1,12 @@
 {
   "_comment": "Store locations to price. Foodstuffs ids are store UUIDs from `npm run stores:foodstuffs`. Woolworths: one entry per session; set the named env var to a browser cookie to pin a specific store, otherwise it uses Woolworths' default session store.",
   "paknsave": [
-    { "id": "b2e98a14-c8ca-401e-99ed-edf74570c6f6", "name": "PAK'nSAVE Mt Albert" },
-    { "id": "e1925ea7-01bc-4358-ae7c-c6502da5ab12", "name": "PAK'nSAVE Royal Oak" },
+    { "id": "98ec3885-ac93-4fcb-807b-59c9055c52c4", "name": "PAK'nSAVE Petone" },
+    { "id": "b83029b6-5dd5-449e-8056-26f3943a4e18", "name": "PAK'nSAVE Lower hutt" },
     { "id": "9cd8eb60-3222-4efc-bd7c-50e03e6a81a4", "name": "PAK'nSAVE Manukau" }
   ],
   "newworld": [
-    { "id": "91e4dddd-aed7-4ccc-ad0b-dfe25805a495", "name": "New World Remuera" },
+    { "id": "60928d93-06fa-4d8f-92a6-8c359e7e846d|", "name": "New World Thorndon" },
     { "id": "3ca6692b-e2a3-4d51-95b6-d061b9541e6c", "name": "New World Mt Roskill" }
   ],
   "woolworths": [
