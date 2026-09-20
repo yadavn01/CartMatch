@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-09-20T20:45:23.707Z",
+  "scrapedAt": "2026-09-20T23:02:35.875Z",
   "stores": {
     "paknsave:98ec3885-ac93-4fcb-807b-59c9055c52c4": {
       "retailer": "paknsave",
@@ -527,7 +527,7 @@
         "storeName": "PAK'nSAVE Petone",
         "priceCents": 949
       },
-      "spreadCents": 310,
+      "spreadCents": 250,
       "prices": [
         {
           "matchedBy": "search-fallback",
@@ -583,8 +583,8 @@
           "productId": "5202411-EA-000",
           "name": "Otaika Valley Premium Free Range Size 7 Eggs",
           "brand": "Otaika Valley",
-          "priceCents": 1259,
-          "unitPrice": "$1.05/ea",
+          "priceCents": 1199,
+          "unitPrice": "$1.00/ea",
           "barcode": "9415403003359",
           "onSpecial": false,
           "store": "newworld:3ca6692b-e2a3-4d51-95b6-d061b9541e6c",
