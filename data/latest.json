@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-18T20:33:48.287Z",
+  "scrapedAt": "2026-10-19T22:21:02.555Z",
   "stores": {
     "paknsave:98ec3885-ac93-4fcb-807b-59c9055c52c4": {
       "retailer": "paknsave",
@@ -33,17 +33,17 @@
       "cheapest": {
         "store": "paknsave:98ec3885-ac93-4fcb-807b-59c9055c52c4",
         "storeName": "PAK'nSAVE Petone",
-        "priceCents": 469
+        "priceCents": 468
       },
-      "spreadCents": 5,
+      "spreadCents": 6,
       "prices": [
         {
           "matchedBy": "id",
           "productId": "5201479-EA-000",
           "name": "Pams Value Standard Milk",
           "brand": "Pams Value",
-          "priceCents": 469,
-          "unitPrice": "$2.35/L",
+          "priceCents": 468,
+          "unitPrice": "$2.34/L",
           "barcode": "9415077379187",
           "onSpecial": false,
           "store": "paknsave:98ec3885-ac93-4fcb-807b-59c9055c52c4",
@@ -70,8 +70,8 @@
           "productId": "5201479-EA-000",
           "name": "Pams Value Standard Milk",
           "brand": "Pams Value",
-          "priceCents": 469,
-          "unitPrice": "$2.35/L",
+          "priceCents": 468,
+          "unitPrice": "$2.34/L",
           "barcode": "9415077379187",
           "onSpecial": false,
           "store": "paknsave:9cd8eb60-3222-4efc-bd7c-50e03e6a81a4",
@@ -91,7 +91,7 @@
           "productId": "5201479-EA-000",
           "name": "Pams Value Standard Milk",
           "brand": "Pams Value",
-          "priceCents": 472,
+          "priceCents": 471,
           "unitPrice": "$2.36/L",
           "barcode": "9415077379187",
           "onSpecial": false,
@@ -121,8 +121,8 @@
       "prices": [
         {
           "matchedBy": "search-fallback",
-          "productId": "5001313-EA-000",
-          "name": "Anchor Original Soft Spreadable Dairy Blend 500g",
+          "productId": "5017422-EA-000",
+          "name": "Anchor Original Soft Light Spreadable Dairy Blend 500g",
           "brand": "Anchor",
           "priceCents": 769,
           "unitPrice": "$1.54/g",
