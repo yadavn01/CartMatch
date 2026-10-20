@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-19T22:21:02.555Z",
+  "scrapedAt": "2026-10-20T21:36:18.125Z",
   "stores": {
     "paknsave:98ec3885-ac93-4fcb-807b-59c9055c52c4": {
       "retailer": "paknsave",
@@ -115,18 +115,18 @@
       "cheapest": {
         "store": "paknsave:98ec3885-ac93-4fcb-807b-59c9055c52c4",
         "storeName": "PAK'nSAVE Petone",
-        "priceCents": 769
+        "priceCents": 929
       },
-      "spreadCents": 210,
+      "spreadCents": 50,
       "prices": [
         {
-          "matchedBy": "search-fallback",
-          "productId": "5017422-EA-000",
-          "name": "Anchor Original Soft Light Spreadable Dairy Blend 500g",
+          "matchedBy": "id",
+          "productId": "5002650-EA-000",
+          "name": "Anchor Butter",
           "brand": "Anchor",
-          "priceCents": 769,
-          "unitPrice": "$1.54/g",
-          "barcode": "",
+          "priceCents": 929,
+          "unitPrice": "$1.86/g",
+          "barcode": "9414342140101",
           "onSpecial": false,
           "store": "paknsave:98ec3885-ac93-4fcb-807b-59c9055c52c4",
           "storeName": "PAK'nSAVE Petone",
