@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-10-22T21:32:54.718Z",
+  "scrapedAt": "2026-10-23T21:24:24.768Z",
   "stores": {
     "paknsave:98ec3885-ac93-4fcb-807b-59c9055c52c4": {
       "retailer": "paknsave",
@@ -559,11 +559,11 @@
         },
         {
           "matchedBy": "search-fallback",
-          "productId": "5295821-EA-000",
-          "name": "Pams Free Range Size 7 Eggs 12pk",
-          "brand": "Pams",
-          "priceCents": 949,
-          "unitPrice": "$0.79/ea",
+          "productId": "5342311-EA-000",
+          "name": "New Day Size 7 Eggs 12pk",
+          "brand": "New Day",
+          "priceCents": 1159,
+          "unitPrice": "$0.97/ea",
           "barcode": "",
           "onSpecial": false,
           "store": "paknsave:9cd8eb60-3222-4efc-bd7c-50e03e6a81a4",
