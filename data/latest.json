@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-01T22:03:18.915Z",
+  "scrapedAt": "2026-11-03T00:58:04.237Z",
   "stores": {
     "paknsave:98ec3885-ac93-4fcb-807b-59c9055c52c4": {
       "retailer": "paknsave",
@@ -31,20 +31,20 @@
       "key": "milk-standard-2l",
       "label": "Standard milk 2L",
       "cheapest": {
-        "store": "paknsave:98ec3885-ac93-4fcb-807b-59c9055c52c4",
-        "storeName": "PAK'nSAVE Petone",
+        "store": "paknsave:9cd8eb60-3222-4efc-bd7c-50e03e6a81a4",
+        "storeName": "PAK'nSAVE Manukau",
         "priceCents": 468
       },
-      "spreadCents": 6,
+      "spreadCents": 53,
       "prices": [
         {
-          "matchedBy": "id",
-          "productId": "5201479-EA-000",
-          "name": "Pams Value Standard Milk",
-          "brand": "Pams Value",
-          "priceCents": 468,
-          "unitPrice": "$2.34/L",
-          "barcode": "9415077379187",
+          "matchedBy": "search-fallback",
+          "productId": "5266784-EA-000",
+          "name": "Simply Milk Standard Milk 2l",
+          "brand": "Simply Milk",
+          "priceCents": 521,
+          "unitPrice": "$2.61/L",
+          "barcode": "",
           "onSpecial": false,
           "store": "paknsave:98ec3885-ac93-4fcb-807b-59c9055c52c4",
           "storeName": "PAK'nSAVE Petone",
@@ -462,14 +462,14 @@
           "ok": true
         },
         {
-          "matchedBy": "id",
-          "productId": "5286791-EA-000",
-          "name": "Edmonds Standard Grade Flour",
+          "matchedBy": "search-fallback",
+          "productId": "5286790-EA-000",
+          "name": "Edmonds High Grade Flour 1.5kg",
           "brand": "Edmonds",
           "priceCents": 279,
           "unitPrice": "$0.19/g",
-          "barcode": "9416897000367",
-          "onSpecial": false,
+          "barcode": "",
+          "onSpecial": true,
           "store": "paknsave:b83029b6-5dd5-449e-8056-26f3943a4e18",
           "storeName": "PAK'nSAVE Lower hutt",
           "retailer": "paknsave",
