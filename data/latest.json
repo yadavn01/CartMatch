@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-08T22:02:34.533Z",
+  "scrapedAt": "2026-11-10T01:32:18.383Z",
   "stores": {
     "paknsave:98ec3885-ac93-4fcb-807b-59c9055c52c4": {
       "retailer": "paknsave",
@@ -545,11 +545,11 @@
         },
         {
           "matchedBy": "search-fallback",
-          "productId": "5023573-EA-000",
-          "name": "Woodland Free Range Size 7 Eggs 10pk",
-          "brand": "Woodland",
-          "priceCents": 1049,
-          "unitPrice": "$1.05/ea",
+          "productId": "5317482-EA-000",
+          "name": "Better Eggs Free Range Size 7 Eggs 12pk",
+          "brand": "Better Eggs",
+          "priceCents": 1099,
+          "unitPrice": "$0.92/ea",
           "barcode": "",
           "onSpecial": false,
           "store": "paknsave:b83029b6-5dd5-449e-8056-26f3943a4e18",
