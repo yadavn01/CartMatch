@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-12T00:30:51.806Z",
+  "scrapedAt": "2026-11-12T23:34:26.031Z",
   "stores": {
     "paknsave:98ec3885-ac93-4fcb-807b-59c9055c52c4": {
       "retailer": "paknsave",
@@ -115,19 +115,19 @@
       "cheapest": {
         "store": "paknsave:98ec3885-ac93-4fcb-807b-59c9055c52c4",
         "storeName": "PAK'nSAVE Petone",
-        "priceCents": 789
+        "priceCents": 599
       },
-      "spreadCents": 140,
+      "spreadCents": 330,
       "prices": [
         {
-          "matchedBy": "id",
-          "productId": "5002650-EA-000",
-          "name": "Anchor Butter",
+          "matchedBy": "search-fallback",
+          "productId": "5001313-EA-000",
+          "name": "Anchor Original Soft Spreadable Dairy Blend 500g",
           "brand": "Anchor",
-          "priceCents": 789,
-          "unitPrice": "$1.58/g",
-          "barcode": "9414342140101",
-          "onSpecial": false,
+          "priceCents": 599,
+          "unitPrice": "$1.20/g",
+          "barcode": "",
+          "onSpecial": true,
           "store": "paknsave:98ec3885-ac93-4fcb-807b-59c9055c52c4",
           "storeName": "PAK'nSAVE Petone",
           "retailer": "paknsave",
@@ -443,17 +443,17 @@
       "cheapest": {
         "store": "paknsave:98ec3885-ac93-4fcb-807b-59c9055c52c4",
         "storeName": "PAK'nSAVE Petone",
-        "priceCents": 189
+        "priceCents": 219
       },
-      "spreadCents": 190,
+      "spreadCents": 160,
       "prices": [
         {
           "matchedBy": "search-fallback",
-          "productId": "5003829-EA-000",
-          "name": "Pams Pure Plain Flour 1.5kg",
+          "productId": "5003844-EA-000",
+          "name": "Pams Self Raising Flour 1.5kg",
           "brand": "Pams",
-          "priceCents": 189,
-          "unitPrice": "$0.13/g",
+          "priceCents": 219,
+          "unitPrice": "$0.15/g",
           "barcode": "",
           "onSpecial": false,
           "store": "paknsave:98ec3885-ac93-4fcb-807b-59c9055c52c4",
@@ -462,13 +462,13 @@
           "ok": true
         },
         {
-          "matchedBy": "search-fallback",
-          "productId": "5286790-EA-000",
-          "name": "Edmonds High Grade Flour 1.5kg",
+          "matchedBy": "id",
+          "productId": "5286791-EA-000",
+          "name": "Edmonds Standard Grade Flour",
           "brand": "Edmonds",
           "priceCents": 319,
           "unitPrice": "$0.21/g",
-          "barcode": "",
+          "barcode": "9416897000367",
           "onSpecial": false,
           "store": "paknsave:b83029b6-5dd5-449e-8056-26f3943a4e18",
           "storeName": "PAK'nSAVE Lower hutt",
