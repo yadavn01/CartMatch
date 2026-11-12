@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-10T23:13:09.647Z",
+  "scrapedAt": "2026-11-12T00:30:51.806Z",
   "stores": {
     "paknsave:98ec3885-ac93-4fcb-807b-59c9055c52c4": {
       "retailer": "paknsave",
@@ -197,19 +197,19 @@
       "cheapest": {
         "store": "paknsave:98ec3885-ac93-4fcb-807b-59c9055c52c4",
         "storeName": "PAK'nSAVE Petone",
-        "priceCents": 819
+        "priceCents": 569
       },
-      "spreadCents": 180,
+      "spreadCents": 430,
       "prices": [
         {
           "matchedBy": "search-fallback",
-          "productId": "5014712-EA-000",
-          "name": "Sanitarium Weet-Bix Wild Berry Bites Breakfast Cereal 500g",
+          "productId": "5002800-EA-000",
+          "name": "Sanitarium Weet-Bix Breakfast Cereal 750g",
           "brand": "Sanitarium Weet-Bix",
-          "priceCents": 819,
-          "unitPrice": "$1.64/g",
+          "priceCents": 569,
+          "unitPrice": "$0.76/g",
           "barcode": "",
-          "onSpecial": false,
+          "onSpecial": true,
           "store": "paknsave:98ec3885-ac93-4fcb-807b-59c9055c52c4",
           "storeName": "PAK'nSAVE Petone",
           "retailer": "paknsave",
@@ -443,17 +443,17 @@
       "cheapest": {
         "store": "paknsave:98ec3885-ac93-4fcb-807b-59c9055c52c4",
         "storeName": "PAK'nSAVE Petone",
-        "priceCents": 319
+        "priceCents": 189
       },
-      "spreadCents": 60,
+      "spreadCents": 190,
       "prices": [
         {
           "matchedBy": "search-fallback",
-          "productId": "5286790-EA-000",
-          "name": "Edmonds High Grade Flour 1.5kg",
-          "brand": "Edmonds",
-          "priceCents": 319,
-          "unitPrice": "$0.21/g",
+          "productId": "5003829-EA-000",
+          "name": "Pams Pure Plain Flour 1.5kg",
+          "brand": "Pams",
+          "priceCents": 189,
+          "unitPrice": "$0.13/g",
           "barcode": "",
           "onSpecial": false,
           "store": "paknsave:98ec3885-ac93-4fcb-807b-59c9055c52c4",
