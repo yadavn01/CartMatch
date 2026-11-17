@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-15T22:41:51.142Z",
+  "scrapedAt": "2026-11-17T01:56:37.131Z",
   "stores": {
     "paknsave:98ec3885-ac93-4fcb-807b-59c9055c52c4": {
       "retailer": "paknsave",
@@ -21,9 +21,9 @@
       "retailer": "newworld",
       "name": "New World Mt Roskill"
     },
-    "woolworths:9171": {
+    "woolworths:session": {
       "retailer": "woolworths",
-      "name": "Woolworths Glenfield"
+      "name": "Woolworths (session default)"
     }
   },
   "items": [
@@ -35,7 +35,7 @@
         "storeName": "PAK'nSAVE Petone",
         "priceCents": 468
       },
-      "spreadCents": 100,
+      "spreadCents": 3,
       "prices": [
         {
           "matchedBy": "id",
@@ -56,8 +56,8 @@
           "productId": "5201479-EA-000",
           "name": "Pams Value Standard Milk",
           "brand": "Pams Value",
-          "priceCents": 474,
-          "unitPrice": "$2.37/L",
+          "priceCents": 468,
+          "unitPrice": "$2.34/L",
           "barcode": "9415077379187",
           "onSpecial": false,
           "store": "paknsave:b83029b6-5dd5-449e-8056-26f3943a4e18",
@@ -101,18 +101,11 @@
           "ok": true
         },
         {
-          "matchedBy": "id",
-          "productId": "282819",
-          "name": "anchor milk standard blue",
-          "brand": "anchor",
-          "priceCents": 568,
-          "unitPrice": "$2.84/1L",
-          "barcode": "",
-          "onSpecial": false,
-          "store": "woolworths:9171",
-          "storeName": "Woolworths Glenfield",
+          "store": "woolworths:session",
+          "storeName": "Woolworths (session default)",
           "retailer": "woolworths",
-          "ok": true
+          "ok": false,
+          "error": "woolworths product 282819: request failed (AbortError 20)"
         }
       ]
     },
@@ -124,7 +117,7 @@
         "storeName": "PAK'nSAVE Petone",
         "priceCents": 769
       },
-      "spreadCents": 201,
+      "spreadCents": 160,
       "prices": [
         {
           "matchedBy": "search-fallback",
@@ -190,18 +183,11 @@
           "ok": true
         },
         {
-          "matchedBy": "id",
-          "productId": "281759",
-          "name": "anchor butter",
-          "brand": "anchor",
-          "priceCents": 970,
-          "unitPrice": "$1.94/100g",
-          "barcode": "",
-          "onSpecial": false,
-          "store": "woolworths:9171",
-          "storeName": "Woolworths Glenfield",
+          "store": "woolworths:session",
+          "storeName": "Woolworths (session default)",
           "retailer": "woolworths",
-          "ok": true
+          "ok": false,
+          "error": "woolworths product 281759: request failed (AbortError 20)"
         }
       ]
     },
@@ -209,11 +195,11 @@
       "key": "weetbix-1.2kg",
       "label": "Sanitarium Weet-Bix 1.2kg",
       "cheapest": {
-        "store": "woolworths:9171",
-        "storeName": "Woolworths Glenfield",
-        "priceCents": 849
+        "store": "paknsave:98ec3885-ac93-4fcb-807b-59c9055c52c4",
+        "storeName": "PAK'nSAVE Petone",
+        "priceCents": 899
       },
-      "spreadCents": 150,
+      "spreadCents": 100,
       "prices": [
         {
           "matchedBy": "id",
@@ -279,18 +265,11 @@
           "ok": true
         },
         {
-          "matchedBy": "id",
-          "productId": "885704",
-          "name": "sanitarium weet-bix cereal",
-          "brand": "sanitarium weet-bix",
-          "priceCents": 849,
-          "unitPrice": "$0.71/100g",
-          "barcode": "",
-          "onSpecial": true,
-          "store": "woolworths:9171",
-          "storeName": "Woolworths Glenfield",
+          "store": "woolworths:session",
+          "storeName": "Woolworths (session default)",
           "retailer": "woolworths",
-          "ok": true
+          "ok": false,
+          "error": "woolworths product 885704: request failed (AbortError 20)"
         }
       ]
     },
@@ -368,18 +347,11 @@
           "ok": true
         },
         {
-          "matchedBy": "id",
-          "productId": "275582",
-          "name": "tip top super soft toast bread white",
-          "brand": "tip top super soft",
-          "priceCents": 439,
-          "unitPrice": "$0.63/100g",
-          "barcode": "",
-          "onSpecial": false,
-          "store": "woolworths:9171",
-          "storeName": "Woolworths Glenfield",
+          "store": "woolworths:session",
+          "storeName": "Woolworths (session default)",
           "retailer": "woolworths",
-          "ok": true
+          "ok": false,
+          "error": "woolworths product 275582: request failed (AbortError 20)"
         }
       ]
     },
@@ -457,18 +429,11 @@
           "ok": true
         },
         {
-          "matchedBy": "id",
-          "productId": "4424",
-          "name": "watties baked beans",
-          "brand": "watties",
-          "priceCents": 240,
-          "unitPrice": "$0.57/100g",
-          "barcode": "",
-          "onSpecial": true,
-          "store": "woolworths:9171",
-          "storeName": "Woolworths Glenfield",
+          "store": "woolworths:session",
+          "storeName": "Woolworths (session default)",
           "retailer": "woolworths",
-          "ok": true
+          "ok": false,
+          "error": "woolworths product 4424: request failed (AbortError 20)"
         }
       ]
     },
@@ -546,18 +511,11 @@
           "ok": true
         },
         {
-          "matchedBy": "id",
-          "productId": "160023",
-          "name": "edmonds standard grade flour",
-          "brand": "edmonds",
-          "priceCents": 379,
-          "unitPrice": "$0.25/100g",
-          "barcode": "",
-          "onSpecial": false,
-          "store": "woolworths:9171",
-          "storeName": "Woolworths Glenfield",
+          "store": "woolworths:session",
+          "storeName": "Woolworths (session default)",
           "retailer": "woolworths",
-          "ok": true
+          "ok": false,
+          "error": "woolworths product 160023: request failed (AbortError 20)"
         }
       ]
     },
@@ -635,18 +593,11 @@
           "ok": true
         },
         {
-          "matchedBy": "id",
-          "productId": "411926",
-          "name": "otaika valley eggs free range size 7",
-          "brand": "otaika valley",
-          "priceCents": 1050,
-          "unitPrice": "$0.88/1ea",
-          "barcode": "",
-          "onSpecial": true,
-          "store": "woolworths:9171",
-          "storeName": "Woolworths Glenfield",
+          "store": "woolworths:session",
+          "storeName": "Woolworths (session default)",
           "retailer": "woolworths",
-          "ok": true
+          "ok": false,
+          "error": "woolworths product 411926: request failed (AbortError 20)"
         }
       ]
     }
