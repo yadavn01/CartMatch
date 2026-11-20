@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-19T00:16:12.265Z",
+  "scrapedAt": "2026-11-20T00:38:31.259Z",
   "stores": {
     "paknsave:98ec3885-ac93-4fcb-807b-59c9055c52c4": {
       "retailer": "paknsave",
@@ -31,20 +31,20 @@
       "key": "milk-standard-2l",
       "label": "Standard milk 2L",
       "cheapest": {
-        "store": "paknsave:98ec3885-ac93-4fcb-807b-59c9055c52c4",
-        "storeName": "PAK'nSAVE Petone",
+        "store": "paknsave:b83029b6-5dd5-449e-8056-26f3943a4e18",
+        "storeName": "PAK'nSAVE Lower hutt",
         "priceCents": 468
       },
-      "spreadCents": 3,
+      "spreadCents": 351,
       "prices": [
         {
-          "matchedBy": "id",
-          "productId": "5201479-EA-000",
-          "name": "Pams Value Standard Milk",
-          "brand": "Pams Value",
-          "priceCents": 468,
-          "unitPrice": "$2.34/L",
-          "barcode": "9415077379187",
+          "matchedBy": "search-fallback",
+          "productId": "5085515-EA-000",
+          "name": "Zany Zeus Zorganic Standard Milk 2l",
+          "brand": "Zany Zeus",
+          "priceCents": 819,
+          "unitPrice": "$4.10/L",
+          "barcode": "",
           "onSpecial": false,
           "store": "paknsave:98ec3885-ac93-4fcb-807b-59c9055c52c4",
           "storeName": "PAK'nSAVE Petone",
