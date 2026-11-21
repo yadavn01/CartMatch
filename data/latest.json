@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-21T00:01:33.154Z",
+  "scrapedAt": "2026-11-21T23:05:30.708Z",
   "stores": {
     "paknsave:98ec3885-ac93-4fcb-807b-59c9055c52c4": {
       "retailer": "paknsave",
@@ -21,9 +21,9 @@
       "retailer": "newworld",
       "name": "New World Mt Roskill"
     },
-    "woolworths:session": {
+    "woolworths:9171": {
       "retailer": "woolworths",
-      "name": "Woolworths (session default)"
+      "name": "Woolworths Glenfield"
     }
   },
   "items": [
@@ -31,20 +31,20 @@
       "key": "milk-standard-2l",
       "label": "Standard milk 2L",
       "cheapest": {
-        "store": "paknsave:b83029b6-5dd5-449e-8056-26f3943a4e18",
-        "storeName": "PAK'nSAVE Lower hutt",
+        "store": "paknsave:98ec3885-ac93-4fcb-807b-59c9055c52c4",
+        "storeName": "PAK'nSAVE Petone",
         "priceCents": 468
       },
-      "spreadCents": 351,
+      "spreadCents": 3,
       "prices": [
         {
-          "matchedBy": "search-fallback",
-          "productId": "5085515-EA-000",
-          "name": "Zany Zeus Zorganic Standard Milk 2l",
-          "brand": "Zany Zeus",
-          "priceCents": 819,
-          "unitPrice": "$4.10/L",
-          "barcode": "",
+          "matchedBy": "id",
+          "productId": "5201479-EA-000",
+          "name": "Pams Value Standard Milk",
+          "brand": "Pams Value",
+          "priceCents": 468,
+          "unitPrice": "$2.34/L",
+          "barcode": "9415077379187",
           "onSpecial": false,
           "store": "paknsave:98ec3885-ac93-4fcb-807b-59c9055c52c4",
           "storeName": "PAK'nSAVE Petone",
@@ -101,8 +101,8 @@
           "ok": true
         },
         {
-          "store": "woolworths:session",
-          "storeName": "Woolworths (session default)",
+          "store": "woolworths:9171",
+          "storeName": "Woolworths Glenfield",
           "retailer": "woolworths",
           "ok": false,
           "error": "woolworths product 282819: request failed (AbortError 20)"
@@ -183,8 +183,8 @@
           "ok": true
         },
         {
-          "store": "woolworths:session",
-          "storeName": "Woolworths (session default)",
+          "store": "woolworths:9171",
+          "storeName": "Woolworths Glenfield",
           "retailer": "woolworths",
           "ok": false,
           "error": "woolworths product 281759: request failed (AbortError 20)"
@@ -265,8 +265,8 @@
           "ok": true
         },
         {
-          "store": "woolworths:session",
-          "storeName": "Woolworths (session default)",
+          "store": "woolworths:9171",
+          "storeName": "Woolworths Glenfield",
           "retailer": "woolworths",
           "ok": false,
           "error": "woolworths product 885704: request failed (AbortError 20)"
@@ -347,8 +347,8 @@
           "ok": true
         },
         {
-          "store": "woolworths:session",
-          "storeName": "Woolworths (session default)",
+          "store": "woolworths:9171",
+          "storeName": "Woolworths Glenfield",
           "retailer": "woolworths",
           "ok": false,
           "error": "woolworths product 275582: request failed (AbortError 20)"
@@ -429,8 +429,8 @@
           "ok": true
         },
         {
-          "store": "woolworths:session",
-          "storeName": "Woolworths (session default)",
+          "store": "woolworths:9171",
+          "storeName": "Woolworths Glenfield",
           "retailer": "woolworths",
           "ok": false,
           "error": "woolworths product 4424: request failed (AbortError 20)"
@@ -511,8 +511,8 @@
           "ok": true
         },
         {
-          "store": "woolworths:session",
-          "storeName": "Woolworths (session default)",
+          "store": "woolworths:9171",
+          "storeName": "Woolworths Glenfield",
           "retailer": "woolworths",
           "ok": false,
           "error": "woolworths product 160023: request failed (AbortError 20)"
@@ -593,8 +593,8 @@
           "ok": true
         },
         {
-          "store": "woolworths:session",
-          "storeName": "Woolworths (session default)",
+          "store": "woolworths:9171",
+          "storeName": "Woolworths Glenfield",
           "retailer": "woolworths",
           "ok": false,
           "error": "woolworths product 411926: request failed (AbortError 20)"
