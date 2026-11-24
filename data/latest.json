@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-22T23:36:36.427Z",
+  "scrapedAt": "2026-11-24T04:04:00.983Z",
   "stores": {
     "paknsave:98ec3885-ac93-4fcb-807b-59c9055c52c4": {
       "retailer": "paknsave",
@@ -21,9 +21,9 @@
       "retailer": "newworld",
       "name": "New World Mt Roskill"
     },
-    "woolworths:9171": {
+    "woolworths:session": {
       "retailer": "woolworths",
-      "name": "Woolworths Glenfield"
+      "name": "Woolworths (session default)"
     }
   },
   "items": [
@@ -101,8 +101,8 @@
           "ok": true
         },
         {
-          "store": "woolworths:9171",
-          "storeName": "Woolworths Glenfield",
+          "store": "woolworths:session",
+          "storeName": "Woolworths (session default)",
           "retailer": "woolworths",
           "ok": false,
           "error": "woolworths product 282819: request failed (AbortError 20)"
@@ -183,8 +183,8 @@
           "ok": true
         },
         {
-          "store": "woolworths:9171",
-          "storeName": "Woolworths Glenfield",
+          "store": "woolworths:session",
+          "storeName": "Woolworths (session default)",
           "retailer": "woolworths",
           "ok": false,
           "error": "woolworths product 281759: request failed (AbortError 20)"
@@ -265,8 +265,8 @@
           "ok": true
         },
         {
-          "store": "woolworths:9171",
-          "storeName": "Woolworths Glenfield",
+          "store": "woolworths:session",
+          "storeName": "Woolworths (session default)",
           "retailer": "woolworths",
           "ok": false,
           "error": "woolworths product 885704: request failed (AbortError 20)"
@@ -347,8 +347,8 @@
           "ok": true
         },
         {
-          "store": "woolworths:9171",
-          "storeName": "Woolworths Glenfield",
+          "store": "woolworths:session",
+          "storeName": "Woolworths (session default)",
           "retailer": "woolworths",
           "ok": false,
           "error": "woolworths product 275582: request failed (AbortError 20)"
@@ -429,8 +429,8 @@
           "ok": true
         },
         {
-          "store": "woolworths:9171",
-          "storeName": "Woolworths Glenfield",
+          "store": "woolworths:session",
+          "storeName": "Woolworths (session default)",
           "retailer": "woolworths",
           "ok": false,
           "error": "woolworths product 4424: request failed (AbortError 20)"
@@ -511,8 +511,8 @@
           "ok": true
         },
         {
-          "store": "woolworths:9171",
-          "storeName": "Woolworths Glenfield",
+          "store": "woolworths:session",
+          "storeName": "Woolworths (session default)",
           "retailer": "woolworths",
           "ok": false,
           "error": "woolworths product 160023: request failed (AbortError 20)"
@@ -593,8 +593,8 @@
           "ok": true
         },
         {
-          "store": "woolworths:9171",
-          "storeName": "Woolworths Glenfield",
+          "store": "woolworths:session",
+          "storeName": "Woolworths (session default)",
           "retailer": "woolworths",
           "ok": false,
           "error": "woolworths product 411926: request failed (AbortError 20)"
