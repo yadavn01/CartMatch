@@ -1,5 +1,5 @@
 {
-  "scrapedAt": "2026-11-27T01:46:00.967Z",
+  "scrapedAt": "2026-11-28T01:27:11.830Z",
   "stores": {
     "paknsave:98ec3885-ac93-4fcb-807b-59c9055c52c4": {
       "retailer": "paknsave",
@@ -35,7 +35,7 @@
         "storeName": "PAK'nSAVE Petone",
         "priceCents": 468
       },
-      "spreadCents": 3,
+      "spreadCents": 53,
       "prices": [
         {
           "matchedBy": "id",
@@ -52,13 +52,13 @@
           "ok": true
         },
         {
-          "matchedBy": "id",
-          "productId": "5201479-EA-000",
-          "name": "Pams Value Standard Milk",
-          "brand": "Pams Value",
-          "priceCents": 468,
-          "unitPrice": "$2.34/L",
-          "barcode": "9415077379187",
+          "matchedBy": "search-fallback",
+          "productId": "5266784-EA-000",
+          "name": "Simply Milk Standard Milk 2l",
+          "brand": "Simply Milk",
+          "priceCents": 521,
+          "unitPrice": "$2.61/L",
+          "barcode": "",
           "onSpecial": false,
           "store": "paknsave:b83029b6-5dd5-449e-8056-26f3943a4e18",
           "storeName": "PAK'nSAVE Lower hutt",
